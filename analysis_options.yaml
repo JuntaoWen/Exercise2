@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Allow print while learning/debugging in assignments.
+    avoid_print: false
